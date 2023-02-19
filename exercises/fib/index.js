@@ -8,6 +8,8 @@
 // Example:
 //   fib(4) === 3
 
-function fib(n) {}
+function fib(n) {
+     const previousValue = 0;
+}
 
 module.exports = fib;
